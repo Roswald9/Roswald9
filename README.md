@@ -13,11 +13,24 @@ I'm a student at the University of Notre Dame in the class of 2027 studying Mech
 - Power BI Applications
 - SQL and Python coding
 
+## Current Projects
+- NHL Player Comparison for 2025-26 season
+
 ## Languages and Tools
 - Power BI
 - Python
 - SQL
 - MATLAB
+
+## Goals
+- Become a stronger coder
+- Create projects to display findings
+- Interwork python with Power BI/SQL
+
+## Contact me at:
+- roswald@nd.edu
+- https://www.linkedin.com/in/rowan-oswald/
+
 
 <!--
 **Roswald9/Roswald9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
