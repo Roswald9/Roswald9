@@ -1,4 +1,4 @@
-# Data Science Portfolio - Rowan Oswald
+# Portfolio - Rowan Oswald
 
 I'm a student at the University of Notre Dame in the class of 2027 studying Mechanical Engineering and Data Science
 
